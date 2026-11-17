@@ -1,0 +1,7 @@
+{
+  "name": "quotamaxxing",
+  "owner": { "name": "BioBarE" },
+  "plugins": [
+    { "name": "quotamaxxing", "source": "./", "description": "Sends your Claude Code and Codex limits (remaining % and reset times only) to the Quotamaxxing app on your Mac." }
+  ]
+}

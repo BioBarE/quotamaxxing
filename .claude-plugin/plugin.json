@@ -1,0 +1,1 @@
+{ "name": "quotamaxxing", "version": "0.2.0", "description": "Sends your Claude Code and Codex limits (remaining % and reset times only) to the Quotamaxxing app on your Mac. No model calls, no network, no files." }
